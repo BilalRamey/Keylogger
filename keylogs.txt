@@ -1,0 +1,35 @@
+Special key Key.caps_lock pressed.
+Key t pressed.
+Special key Key.caps_lock pressed.
+Key b pressed.
+Key i pressed.
+Key l pressed.
+Key a pressed.
+Key l pressed.
+Special key Key.enter pressed.
+Special key Key.caps_lock pressed.
+Key a pressed.
+Special key Key.caps_lock pressed.
+Key f pressed.
+Key t pressed.
+Key e pressed.
+Key r pressed.
+Special key Key.space pressed.
+Key i pressed.
+Key t pressed.
+Special key Key.space pressed.
+Key s pressed.
+Key t pressed.
+Key a pressed.
+Key r pressed.
+Key t pressed.
+Key s pressed.
+Special key Key.space pressed.
+Key l pressed.
+Key o pressed.
+Key g pressed.
+Key g pressed.
+Key i pressed.
+Key n pressed.
+Key g pressed.
+Special key Key.print_screen pressed.
